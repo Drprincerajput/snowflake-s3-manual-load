@@ -118,4 +118,5 @@ CREATE TABLE movie_titles (
 ## 🙋 Author
 
 **Your Name**  
-📫 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/drprincerajput/))
+📫 [LinkedIn](https://www.linkedin.com/in/drprincerajput/)
+
