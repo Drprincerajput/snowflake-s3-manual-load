@@ -118,11 +118,4 @@ CREATE TABLE movie_titles (
 ## 🙋 Author
 
 **Your Name**  
-📫 [LinkedIn](https://linkedin.com/in/your-profile) • 🌐 [Portfolio](https://yourwebsite.com)
-
----
-
-## 💡 Tip
-
-Want real-time ingestion?  
-👉 Check out my *Snowpipe Auto-Ingest Project* (coming soon)
+📫 [LinkedIn](https://linkedin.com/in/your-profile)
